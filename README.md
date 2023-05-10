@@ -1,8 +1,4 @@
 # trab1jorge
 Primeiro trabalho sobre versionamento 
 
-
-readme de exemplo
-
-
-
+Fazendo alteração do readme
